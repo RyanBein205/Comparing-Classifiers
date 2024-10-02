@@ -58,7 +58,7 @@ Install the required libraries via pip:
 bash
 Copy code
 pip install -r requirements.txt
-Download the dataset from the UCI Machine Learning Repository here.
+Download the dataset from the UCI Machine Learning Repository [here](data/bank-additional-full.csv).
 Run the [Jupyter Notebook](prompt_III.ipynb) to explore the models and results.
 Conclusion
 This project provided me with valuable insights into classification modeling and feature engineering for a real-world business problem. Through careful model selection and comparison, I was able to develop an approach that helps predict term deposit subscriptions, which could significantly improve marketing campaign efficiency for the bank.
